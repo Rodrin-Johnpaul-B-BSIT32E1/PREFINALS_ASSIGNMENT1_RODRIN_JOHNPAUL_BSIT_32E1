@@ -11,7 +11,7 @@ namespace ProtectedApi
         private readonly Random _random = new Random();
         private readonly string[] _thingsAboutOwner = new[]
         {
-            "I love playing ml.",
+            "I love playing ML.",
             "I enjoy riding.",
             "I am working student.",
             "I like basketball.",
