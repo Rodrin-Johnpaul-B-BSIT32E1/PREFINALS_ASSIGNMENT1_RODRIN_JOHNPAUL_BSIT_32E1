@@ -1,6 +1,5 @@
 ﻿using AuthServer.Core;
 using AuthServer.Models;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AuthServer.Controllers
